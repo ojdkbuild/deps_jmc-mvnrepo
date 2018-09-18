@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 18 10:44:22 PDT 2018
+maven-common-artifact-filters-3.0.0.jar>wilton=
+maven-common-artifact-filters-3.0.0.jar>central=
+maven-common-artifact-filters-3.0.0.pom>central=
+maven-common-artifact-filters-3.0.0.pom>wilton=

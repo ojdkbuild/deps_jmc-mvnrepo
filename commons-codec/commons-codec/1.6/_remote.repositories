@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 18 10:42:20 PDT 2018
+commons-codec-1.6.pom>wilton=
+commons-codec-1.6.jar>central=
+commons-codec-1.6.jar>wilton=
+commons-codec-1.6.pom>central=

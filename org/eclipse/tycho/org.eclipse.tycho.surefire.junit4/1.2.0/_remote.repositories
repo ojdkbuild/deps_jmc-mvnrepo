@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 18 10:47:03 PDT 2018
+org.eclipse.tycho.surefire.junit4-1.2.0.jar>central=
+org.eclipse.tycho.surefire.junit4-1.2.0.pom>central=

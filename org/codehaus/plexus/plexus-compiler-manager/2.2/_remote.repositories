@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 18 10:44:30 PDT 2018
+plexus-compiler-manager-2.2.jar>central=
+plexus-compiler-manager-2.2.pom>central=
+plexus-compiler-manager-2.2.pom>wilton=
+plexus-compiler-manager-2.2.jar>wilton=

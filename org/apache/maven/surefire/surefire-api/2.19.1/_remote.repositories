@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 18 10:47:03 PDT 2018
+surefire-api-2.19.1.pom>central=
+surefire-api-2.19.1.pom>wilton=
+surefire-api-2.19.1.jar>wilton=
+surefire-api-2.19.1.jar>central=
