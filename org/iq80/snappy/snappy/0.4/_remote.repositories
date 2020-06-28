@@ -1,6 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 18 10:44:22 PDT 2018
-snappy-0.4.jar>wilton=
+#Sun Jun 28 09:45:34 PDT 2020
 snappy-0.4.jar>central=
 snappy-0.4.pom>central=
-snappy-0.4.pom>wilton=

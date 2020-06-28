@@ -1,6 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 18 10:40:35 PDT 2018
+#Sun Jun 28 09:45:34 PDT 2020
 aether-api-1.7.jar>central=
 aether-api-1.7.pom>central=
-aether-api-1.7.pom>wilton=
-aether-api-1.7.jar>wilton=

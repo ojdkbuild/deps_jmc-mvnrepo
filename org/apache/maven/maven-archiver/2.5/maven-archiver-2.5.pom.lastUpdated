@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 18 10:46:58 PDT 2018
+#Sun Jun 28 09:56:02 PDT 2020
 http\://buchen.github.io/maven-repo/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1537292818650
-http\://buchen.github.io/maven-repo/.lastUpdated=1537292818603
+https\://repo.maven.apache.org/maven2/.lastUpdated=1593363362006
+http\://buchen.github.io/maven-repo/.lastUpdated=1593363361428

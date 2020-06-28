@@ -1,6 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 18 10:40:35 PDT 2018
+#Sun Jun 28 09:50:19 PDT 2020
 plexus-component-annotations-1.5.5.jar>central=
-plexus-component-annotations-1.5.5.pom>wilton=
 plexus-component-annotations-1.5.5.pom>central=
-plexus-component-annotations-1.5.5.jar>wilton=

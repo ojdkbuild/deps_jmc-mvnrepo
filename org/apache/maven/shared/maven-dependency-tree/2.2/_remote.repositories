@@ -1,6 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 18 10:42:20 PDT 2018
+#Sun Jun 28 09:59:41 PDT 2020
 maven-dependency-tree-2.2.jar>central=
-maven-dependency-tree-2.2.pom>wilton=
 maven-dependency-tree-2.2.pom>central=
-maven-dependency-tree-2.2.jar>wilton=

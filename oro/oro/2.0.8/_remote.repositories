@@ -1,6 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 18 10:44:22 PDT 2018
+#Sun Jun 28 09:48:23 PDT 2020
 oro-2.0.8.jar>central=
-oro-2.0.8.pom>wilton=
-oro-2.0.8.jar>wilton=
 oro-2.0.8.pom>central=
